@@ -1,0 +1,54 @@
+.title{
+    color: #1f3433; /*#DAA520; /*white;*/
+    font-family:broadway;
+}
+
+.titleHeader{
+    color: #DAA520; /*white;*/
+    font-family:broadway;
+}
+
+.button{ 
+  background-color: #C27C59;
+}
+
+.text{
+  color: #F1E7DA;
+}
+
+td h5{
+    padding-top: 15px;
+}
+
+.bg-thm {
+    background-color:  #4b686a ;
+    color: #000;
+}
+/*nav footer style*/
+/* Estilos personalizados para la navegación */
+.nav-link {
+    font-size: 1.1rem;
+    font-weight: 500;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #ffc107; /* Cambia a color dorado en hover */
+    transform: scale(1.05); /* Añade un pequeño efecto de zoom */
+}
+
+h5 {
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+.bi {
+    font-size: 1.2rem; /* Tamaño del icono */
+    color: #ffc107; /* Color dorado para los iconos */
+}
+
